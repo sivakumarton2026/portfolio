@@ -58,7 +58,7 @@ An AI-based concept that transforms dream descriptions into meaningful visual re
 
 My resume is available on my portfolio website.
 
-[View Portfolio & Resume](https://sivakumarton2026.github.io/portfolio/)
+[📄 View My Resume](https://sivakumarton2026.github.io/portfolio/resume.pdf)
 
 ## 🚀 Career Goal
 
